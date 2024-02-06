@@ -1,6 +1,26 @@
 ---
-title: "jshakespeare"
+title: "Justine Shakespeare's Portfolio"
+image: "IMG_2509.jpeg" # (needs to be in the same directory)
+about:
+    template: jolla # look for your own: trestles, jolla, solana, broadside, marquee. https://quarto.org/docs/websites/website-about.html
+    image-width: 15em
+    links:
+        - icon: envelope
+          text: email
+          href: mailto:jnshakespeare@gmail.com
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/justineshakespeare/
+        - icon: github
+          text: Github
+          href: https://github.com/JNS2589/MyBlog
+    id: ppc
 ---
+
+::: {#ppc}
+Welcome to my portfolio
+:::
+
 
 This is a Quarto website.
 

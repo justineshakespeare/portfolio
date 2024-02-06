@@ -1,19 +1,29 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
-  title: "jshakespeare"
+  title: "Justine Shakespeare's Portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Projects.qmd
+      
+# (this is where you put the different links on the nav bar)
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+
+    mainfont: "Arial"
+    fontsize: 1.25rem
+    linkcolor: "#FFBC42"
+
+# (For more options: https://quarto.org/docs/output-formats/html-themes.html)
 
 editor: visual
 
