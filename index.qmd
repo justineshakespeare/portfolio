@@ -1,0 +1,13 @@
+---
+title: "jshakespeare"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+Test on feb 6 - from RStudio
