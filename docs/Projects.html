@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -139,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Baby Names">Baby Names <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Justine Shakespeare">Justine Shakespeare <span class="quarto-category-count">(1)</span></div><div class="category" data-category="final_project">final_project <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -172,7 +172,47 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="final_project,Justine Shakespeare,Baby Names" data-listing-date-sort="1684728000000" data-listing-file-modified-sort="1707263261156" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="59">
+<div class="thumbnail">
+<p><a href="./posts/JustineShakespeare_FinalProject.html"> <p class="card-img-top"><img src="posts/JustineShakespeare_FinalProject_files/figure-html/unnamed-chunk-10-1.png"  class="thumbnail-image card-img"/></p> </a></p>
+</div>
+<div class="body">
+<a href="./posts/JustineShakespeare_FinalProject.html">
+<h3 class="no-anchor listing-title">
+Final Project: Baby Names
+</h3>
+<div class="listing-subtitle">
 
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('final_project'); return false;">
+final_project
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Justine Shakespeare'); return false;">
+Justine Shakespeare
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Baby Names'); return false;">
+Baby Names
+</div>
+</div>
+<a href="./posts/JustineShakespeare_FinalProject.html">
+<div class="listing-description">
+<p>Final project submission</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/JustineShakespeare_FinalProject.html">
+<div class="listing-date">
+May 22, 2023
+</div>
+<div class="listing-author">
+Justine Shakespeare
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
