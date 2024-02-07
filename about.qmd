@@ -1,11 +1,10 @@
 ---
-title: "About"
-image: "IMG_8829.jpg"
+title: "Justine Shakespeare"
+image: "Ceramics.JPG"
 about:
   template: solana
   image-width: 15em
-  image-shape: round
-  image: "IMG_8829.jpg"
+  image: "Ceramics.JPG"
   links:
     - icon: envelope
       text: email
@@ -18,22 +17,22 @@ about:
       href: https://github.com/JNS2589/jshakespeare
 ---
 
-## Education/Work Background
+### Education and Work Experience
 
 I have a BA in Foreign Area Studies with a concentration in French History from Barnard College at Columbia University in New York City. I also have an MSc in European Studies from the London School of Economics, where I focused on immigration policy, and an Advanced Graduate Certificate in Data Analytics and Computational Social Science from the University of Massachusetts Amherst. I have a decade of experience working for the international NGO [Verite](http://verite.org), where I specialized in leading research projects on forced labor, human trafficking, and the working conditions of migrant workers in global supply chains.
 
-## Research interests
+### Research Interests
 
 Using data analytics and quantitative and qualitative research methods to advance human rights and amplify social impact.
 
-## Geography
+### Geography
 
 I split my time between Western Mass and New York.
 
-## Hobbies
+### Hobbies
 
-Pottery, crossword puzzles, biking, and travel
+[Ceramics](https://www.instagram.com/justineshakespeareceramics?igsh=MW9xYmwzaXlyeGhrbA%3D%3D&utm_source=qr), crossword puzzles, biking, and travel
 
-## Fun fact
+### Fun fact
 
 I am named as an inventor on a patent for a technology platform that identifies human rights risks in labor supply chains.
