@@ -1,5 +1,5 @@
 ---
-title: "Justine Shakespeare"
+title: "About"
 image: "IMG_8829.jpg"
 about:
   template: solana
@@ -28,7 +28,7 @@ Using data analytics and quantitative and qualitative research methods to advanc
 
 ## Geography
 
-I split my time between Western Mass and New York
+I split my time between Western Mass and New York.
 
 ## Hobbies
 

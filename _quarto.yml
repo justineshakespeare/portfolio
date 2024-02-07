@@ -21,7 +21,7 @@ format:
 
     mainfont: "Arial"
     fontsize: 1.25rem
-    linkcolor: "#FFBC42"
+    linkcolor: "#E84855"
 
 # (For more options: https://quarto.org/docs/output-formats/html-themes.html)
 
