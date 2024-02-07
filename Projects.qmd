@@ -7,3 +7,8 @@ listing:
   type: default
   categories: true
 ---
+
+[Poster] (https://github.com/JNS2589/jshakespeare/blob/main/JustineShakespeare603FP.pdf) for final project for Intro to Quantitative Analysis: Maternal Mortality and Women’s Political Inclusion
+
+[Poster] (https://github.com/JNS2589/jshakespeare/blob/main/Justine_Shakespeare_DACSS758_Text_as_Data.pdf) for Text As Data: Before and After Roe: Tracing Partisan Polarization and the Shifting Landscape
+of Congressional Discourse on Abortion
