@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Justine Shakespeare’s Portfolio",
     "section": "",
-    "text": "Welcome to my portfolio\n \n  \n   \n  \n    \n     email\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nTest on feb 6 - from RStudio"
+    "text": "Greetings and welcome to my website! I’m Justine Shakespeare, a seasoned professional with over a decade of experience in research and project management. Recently, I completed an advanced graduate certificate in the Data Analytics and Computational Social Science program at the University of Massachusetts Amherst. In this program I greatly enhanced my technical skills in data analytics, quantitative analysis, research design, and survey methodology. You can check out some of the work I completed for this program and on my own on the Projects page. You can also see a curated selection of my work at the international labor giths NGO Verite on the Professional Work page.\nWith a strong foundation in project management and research design, coupled with my newfound proficiency in data analytics, I’m eager to integrate my diverse skill set to drive impactful outcomes. Join me as we embark on a journey to leverage data-driven insights and innovative solutions to address complex challenges.\nThank you for visiting, and I look forward to sharing insights and experiences with you."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Justine Shakespeare",
     "section": "",
-    "text": "I have a BA in Foreign Area Studies with a concentration in French History from Barnard College at Columbia University in New York City. I also have an MSc in European Studies from the London School of Economics, where I focused on immigration policy, and an Advanced Graduate Certificate in Data Analytics and Computational Social Science from the University of Massachusetts Amherst. I have a decade of experience working for the international NGO Verite, where I specialized in leading research projects on forced labor, human trafficking, and the working conditions of migrant workers in global supply chains."
+    "text": "Education and Work Experience\nI have a BA in Foreign Area Studies with a concentration in French History from Barnard College at Columbia University in New York City. I also have an MSc in European Studies from the London School of Economics, where I focused on immigration policy, and an Advanced Graduate Certificate in Data Analytics and Computational Social Science from the University of Massachusetts Amherst. I have a decade of experience working for the international NGO Verite, where I specialized in leading research projects on forced labor, human trafficking, and the working conditions of migrant workers in global supply chains.\n\n\nResearch Interests\nUsing data analytics and quantitative and qualitative research methods to advance human rights and amplify social impact.\n\n\nGeography\nI split my time between Western Mass and New York.\n\n\nHobbies\nCeramics, crossword puzzles, biking, and travel\n\n\nFun fact\nI am named as an inventor on a patent for a technology platform that identifies human rights risks in labor supply chains."
   },
   {
     "objectID": "Projects.html",
@@ -156,9 +156,9 @@
   {
     "objectID": "about.html#educationwork-background",
     "href": "about.html#educationwork-background",
-    "title": "About",
+    "title": "Justine Shakespeare",
     "section": "",
-    "text": "I have a BA in Foreign Area Studies with a concentration in French History from Barnard College at Columbia University in New York City. I also have an MSc in European Studies from the London School of Economics, where I focused on immigration policy, and an Advanced Graduate Certificate in Data Analytics and Computational Social Science from the University of Massachusetts Amherst. I have a decade of experience working for the international NGO Verite, where I specialized in leading research projects on forced labor, human trafficking, and the working conditions of migrant workers in global supply chains."
+    "text": "I have a BA in Foreign Area Studies with a concentration in French History from Barnard College at Columbia University in New York City. I also have an MSc in European Studies from the London School of Economics, where I focused on immigration policy, and an Advanced Graduate Certificate in Data Analytics and Computational Social Science from the University of Massachusetts Amherst. I have a decade of experience working for the international NGO Verite, where I specialized in leading research projects on forced labor, human trafficking, and the working conditions of migrant workers in global supply chains.\n\n\nUsing data analytics and quantitative and qualitative research methods to advance human rights and amplify social impact.\n\n\n\nI split my time between Western Mass and New York.\n\n\n\nCeramics, crossword puzzles, biking, and travel\n\n\n\nI am named as an inventor on a patent for a technology platform that identifies human rights risks in labor supply chains."
   },
   {
     "objectID": "about.html#research-interests",
@@ -179,7 +179,7 @@
     "href": "about.html#hobbies",
     "title": "About",
     "section": "Hobbies",
-    "text": "Hobbies\nPottery, crossword puzzles, biking, and travel"
+    "text": "Hobbies\nCeramics, crossword puzzles, biking, and travel"
   },
   {
     "objectID": "about.html#fun-fact",
@@ -187,5 +187,12 @@
     "title": "About",
     "section": "Fun fact",
     "text": "Fun fact\nI am named as an inventor on a patent for a technology platform that identifies human rights risks in labor supply chains."
+  },
+  {
+    "objectID": "ProfessionalWork.html",
+    "href": "ProfessionalWork.html",
+    "title": "Professional Work",
+    "section": "",
+    "text": "While at the international labor rights NGO Verite I specialized in managing research projects on forced labor, human trafficking and the exploitation of migrant workers in global supply chains. I was instrumental in the development of pioneering forced labor research methodology in Southeast Asia and co-authored a first-of-its-kind study on forced labor in the Malaysian electronics industry. Report and Media coverage\nDrove Verité’s efforts to utilize data and technology to combat forced labor and human trafficking by increasing transparency in corporate supply chains and empowering workers around the world. Cofounder and co-inventor of patented technology platform CUMULUS Forced Labor Screen."
   }
 ]
