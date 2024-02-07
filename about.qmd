@@ -1,9 +1,39 @@
 ---
-title: "About"
+title: "Justine Shakespeare"
+image: "IMG_8829.jpg"
+about:
+  template: solana
+  image-width: 15em
+  image-shape: round
+  image: "IMG_8829.jpg"
+  links:
+    - icon: envelope
+      text: email
+      href: mailto:jnshakespeare@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/justineshakespeare/
+    - icon: github
+      text: Github
+      href: https://github.com/JNS2589/jshakespeare
 ---
 
-About this site
+## Education/Work Background
 
-```{r}
-1 + 1
-```
+I have a BA in Foreign Area Studies with a concentration in French History from Barnard College at Columbia University in New York City. I also have an MSc in European Studies from the London School of Economics, where I focused on immigration policy, and an Advanced Graduate Certificate in Data Analytics and Computational Social Science from the University of Massachusetts Amherst. I have a decade of experience working for the international NGO [Verite](www.verite.org), where I specialized in leading research projects on forced labor, human trafficking, and the working conditions of migrant workers in global supply chains.
+
+## Research interests
+
+Using data analytics and quantitative and qualitative research methods to advance human rights and amplify social impact.
+
+## Geography
+
+I split my time between Western Mass and New York
+
+## Hobbies
+
+Pottery, crossword puzzles, biking, and travel
+
+## Fun fact
+
+I am named as an inventor on a patent for a technology platform that identifies human rights risks in labor supply chains.
