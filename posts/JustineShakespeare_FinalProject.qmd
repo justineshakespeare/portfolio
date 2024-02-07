@@ -1,7 +1,7 @@
 ---
-title: "Final Project: Baby Names"
+title: "From Christopher to Oliver: Exploring Generational Shifts in Baby Name Data"
 author: "Justine Shakespeare"
-description: "Final project submission"
+description: "Final project submission for Data Science Fundamentals"
 date: "05/22/2023"
 format:
   html:
