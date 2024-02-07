@@ -1,8 +1,18 @@
 ---
 title: "Professional Work"
+output:
+  quarto::quarto_html_document:
+    toc: true
 ---
 
-While at the international labor rights NGO [Verite](http://verite.org) I specialized in managing research projects on forced labor, human trafficking and the exploitation of migrant workers in global supply chains. I was instrumental in the development of pioneering forced labor research methodology in Southeast Asia and co-authored a first-of-its-kind study on forced labor in the Malaysian electronics industry. See the following links for the  [Report](https://verite.org/wp-content/uploads/2016/11/VeriteForcedLaborMalaysianElectronics2014.pdf) and [Media coverage](https://www.nytimes.com/2014/09/17/business/international/report-cites-forced-labor-in-malaysia.html).
+While at the international labor rights NGO [Verité](http://verite.org) I specialized in managing research projects on forced labor, human trafficking and the exploitation of migrant workers in global supply chains. Here are some featured projects from my time as a Senior Program Manager in the research and policy department:
 
-Drove Verité’s efforts to utilize data and technology to combat forced labor and human trafficking by increasing transparency in corporate supply chains and empowering workers around the world. Cofounder and co-inventor of patented technology platform [CUMULUS Forced Labor Screen](https://verite.org/cumulus/).
+### [Research: Forced Labor in the Production of Electronic Goods in Malaysia](https://verite.org/wp-content/uploads/2016/11/VeriteForcedLaborMalaysianElectronics2014.pdf)
+I was instrumental in the development of pioneering forced labor research methodology in Southeast Asia and co-authored a first-of-its-kind study on forced labor in the Malaysian electronics industry. See media coverage [here](https://www.nytimes.com/2014/09/17/business/international/report-cites-forced-labor-in-malaysia.html).
+
+### [CUMULUS Forced Labor Screen](https://verite.org/cumulus/)
+I also drove efforts to utilize data and technology to combat forced labor and human trafficking by increasing transparency in corporate supply chains and empowering workers around the world. I was the cofounder and co-inventor of the patented technology platform.
+
+### [STREAMS Traceability Matrix](https://traceabilitymatrix.org/)
+While this project has continued beyond my time at Verité, I was part of the initial team that conceptualized and designed the Traceability Matrix. I also researched and wrote most of the content of the [Traceability Technology Page](https://traceabilitymatrix.org/traceability-technology/).
 
