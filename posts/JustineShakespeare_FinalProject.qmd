@@ -10,8 +10,6 @@ format:
     code-copy: true
     code-tools: true
 categories:
-  - final_project
-  - Justine Shakespeare
   - Baby Names
 editor_options: 
   chunk_output_type: console

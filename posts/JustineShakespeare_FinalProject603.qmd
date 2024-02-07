@@ -1,7 +1,7 @@
 ---
 title: "Maternal Mortality and Women's Political Inclusion: Exploring the impact and pathways of gender equality on maternal health"
 author: "Justine Shakespeare"
-desription: "Final project for DACSS 603"
+description: "Final project for DACSS 603"
 date: "05/18/2023"
 format:
   html:
@@ -10,8 +10,6 @@ format:
     code-copy: true
     code-tools: true
 categories:
-  - finalproject
-  - Justine Shakespeare
   - maternal mortality
   - women's political inclusion
   - gender equality
