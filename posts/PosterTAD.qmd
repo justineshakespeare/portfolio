@@ -1,7 +1,8 @@
 ---
 title: "Before and After Roe: Tracing Partisan Polarization and the Shifting Landscape of Congressional Discourse on Abortion"
-subtitle: "Final project research poster for Text as Data"
 ---
+
+Final project research poster for Text as Data.
 
 ![](Justine_Shakespeare_DACSS758_Text_as_Data.png)
 
