@@ -1,0 +1,8 @@
+---
+title: "Maternal Mortality and Women's Political Inclusion: Exploring the impact and pathways of gender equality on maternal health (Poster)"
+subtitle: "Final project research poster for Intro to Quantitative Analysis"
+---
+
+![](JustineShakespeare603FP.png)
+
+Research Poster for Intro to Quantitative Analysis. Click [here](JustineShakespeare603FP.pdf) for PDF and [here](https://jns2589.github.io/jshakespeare/posts/JustineShakespeare_FinalProject603.html) for the full report with code.
