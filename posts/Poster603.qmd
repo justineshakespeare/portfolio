@@ -1,5 +1,6 @@
 ---
 title: "Maternal Mortality and Women's Political Inclusion: Exploring the impact and pathways of gender equality on maternal health (Poster)"
+author: "Justine Shakespeare"
 date: "05/18/2023"
 ---
 
