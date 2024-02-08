@@ -22,8 +22,10 @@ format:
     theme: 
       - yeti #(lumen, yeti, minty)
       - custom.scss
+    backgroundcolor: "#FBFBF2" # (SEASALT:#FAF9F9, apricot: #FFD6BA, ivory: #FFFFF2)
     #css: styles.css
     toc: true
+
 
     #mainfont: "Arial"
     fontsize: 1.1rem
