@@ -22,7 +22,7 @@ format:
     theme: 
       - yeti #(lumen, yeti, minty)
       - custom.scss
-    backgroundcolor: "#ECEBE4" # (SEASALT:#FAF9F9, apricot: #FFD6BA, ivory: #FFFFF2)
+    backgroundcolor: "#ECEBE4" # (SEASALT:#FAF9F9, Alabaster: #ECEBE4)
     #css: styles.css
     toc: true
 

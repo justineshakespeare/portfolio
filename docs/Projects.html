@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -142,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Baby Names">Baby Names <span class="quarto-category-count">(1)</span></div><div class="category" data-category="gender equality">gender equality <span class="quarto-category-count">(1)</span></div><div class="category" data-category="maternal mortality">maternal mortality <span class="quarto-category-count">(1)</span></div><div class="category" data-category="women's political inclusion">women's political inclusion <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -215,13 +215,6 @@ From Christopher to Oliver: Exploring Generational Shifts in Baby Name Data
 <div class="listing-subtitle">
 
 </div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Baby Names'); return false;">
-Baby Names
-</div>
-</div>
-<a href="./posts/JustineShakespeare_FinalProject.html">
 <div class="listing-description">
 <p>Final project submission for Data Science Fundamentals.</p>
 </div>
@@ -275,13 +268,6 @@ Justine Shakespeare
 <div class="body"><a href="./posts/JustineShakespeare_FinalProject603.html">
 <h3 class="no-anchor listing-title">Maternal Mortality and Women's Political Inclusion: Exploring the impact and pathways of gender equality on maternal health</h3>
 <div class="listing-subtitle"></div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('maternal mortality'); return false;">maternal mortality</div>
-<div class="listing-category" onclick="window.quartoListingCategory('women's political inclusion'); return false;">women's political inclusion</div>
-<div class="listing-category" onclick="window.quartoListingCategory('gender equality'); return false;">gender equality</div>
-</div>
-<a href="./posts/JustineShakespeare_FinalProject603.html">
 <div class="delink listing-description">
 Final project submission for Intro to Quantitative Analysis.
 </div>

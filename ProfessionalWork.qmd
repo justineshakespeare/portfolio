@@ -11,8 +11,7 @@ While at the international labor rights NGO [Verité](http://verite.org) I speci
 
 I was instrumental in the development of pioneering forced labor research methodology in Southeast Asia and co-authored a first-of-its-kind study on forced labor in the Malaysian electronics industry. See the New York Times coverage of the release of this report [here](https://www.nytimes.com/2014/09/17/business/international/report-cites-forced-labor-in-malaysia.html).
 
-[View Project](https://verite.org/wp-content/uploads/2016/11/VeriteForcedLaborMalaysianElectronics2014.pdf)
-
+[View Project](https://verite.org/wp-content/uploads/2016/11/VeriteForcedLaborMalaysianElectronics2014.pdf)\
 
 ### CUMULUS Forced Labor Screen
 
@@ -22,8 +21,7 @@ I also drove efforts to utilize data and technology to combat forced labor and h
 
 [![](https://verite.org/wp-content/uploads/2022/02/CUMULUS-Webpage-Logo_v2.png){fig-align="left" width="250"}](https://verite.org/cumulus/)
 
-
-### STREAMS Traceability Matrix
+###  STREAMS Traceability Matrix
 
 While this project has continued beyond my time at Verité, I was part of the initial team that conceptualized and designed the Traceability Matrix. I also researched and wrote most of the content of the [Traceability Technology Page](https://traceabilitymatrix.org/traceability-technology/).
 
