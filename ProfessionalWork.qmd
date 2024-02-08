@@ -13,6 +13,7 @@ I was instrumental in the development of pioneering forced labor research method
 
 [View Project](https://verite.org/wp-content/uploads/2016/11/VeriteForcedLaborMalaysianElectronics2014.pdf)
 
+
 ### CUMULUS Forced Labor Screen
 
 I also drove efforts to utilize data and technology to combat forced labor and human trafficking by increasing transparency in corporate supply chains and empowering workers around the world. I was the cofounder and co-inventor of the patented technology platform.
@@ -20,6 +21,7 @@ I also drove efforts to utilize data and technology to combat forced labor and h
 [View Project](https://verite.org/cumulus/)
 
 [![](https://verite.org/wp-content/uploads/2022/02/CUMULUS-Webpage-Logo_v2.png){fig-align="left" width="250"}](https://verite.org/cumulus/)
+
 
 ### STREAMS Traceability Matrix
 
