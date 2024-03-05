@@ -5,24 +5,24 @@ output:
     toc: true
 ---
 
-While at the international labor rights NGO [Verité](http://verite.org) I specialized in managing research projects on forced labor, human trafficking and the exploitation of migrant workers in global supply chains. Here are some featured projects from my time as a Senior Program Manager in the research and policy department:
+While at the international labor rights NGO [Verité](http://verite.org) I specialized in managing research projects on forced labor, human trafficking and the exploitation of migrant workers in global supply chains. Here are some highlights from my time as a Senior Program Manager in the research and policy department:
 
 ### Research: Forced Labor in the Production of Electronic Goods in Malaysia
 
 I was instrumental in the development of pioneering forced labor research methodology in Southeast Asia and co-authored a first-of-its-kind study on forced labor in the Malaysian electronics industry. See the New York Times coverage of the release of this report [here](https://www.nytimes.com/2014/09/17/business/international/report-cites-forced-labor-in-malaysia.html).
 
-[View Project](https://verite.org/wp-content/uploads/2016/11/VeriteForcedLaborMalaysianElectronics2014.pdf)\
+[View Report](https://verite.org/wp-content/uploads/2016/11/VeriteForcedLaborMalaysianElectronics2014.pdf)\
 
 ### CUMULUS Forced Labor Screen
 
-I also drove efforts to utilize data and technology to combat forced labor and human trafficking by increasing transparency in corporate supply chains and empowering workers around the world. I was the cofounder and co-inventor of the patented technology platform.
+I also drove efforts to utilize data and technology to combat forced labor and human trafficking by increasing transparency in corporate supply chains and empowering workers around the world. I was the co-founder and co-inventor of the patented technology platform, CUMULUS Forced Labor Screen.
 
 [View Project](https://verite.org/cumulus/)
 
 [![](https://verite.org/wp-content/uploads/2022/02/CUMULUS-Webpage-Logo_v2.png){fig-align="left" width="250"}](https://verite.org/cumulus/)
 
-###  STREAMS Traceability Matrix
+### STREAMS Traceability Matrix
 
-While this project has continued beyond my time at Verité, I was part of the initial team that conceptualized and designed the Traceability Matrix. I also researched and wrote most of the content of the [Traceability Technology Page](https://traceabilitymatrix.org/traceability-technology/).
+While this project has continued beyond my time at Verité, I was part of the initial team that conceptualized and designed the Traceability Matrix. I also researched and wrote most of the content on the [Traceability Technology Page](https://traceabilitymatrix.org/traceability-technology/).
 
 [View Project](https://traceabilitymatrix.org/)
