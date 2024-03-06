@@ -2,17 +2,18 @@
 title: "Maternal Mortality and Women's Political Inclusion: Exploring the impact and pathways of gender equality on maternal health"
 author: "Justine Shakespeare"
 description: "Final project submission for Intro to Quantitative Analysis."
-date: "May 18, 2023"
+date: "05/18/2023"
 format:
   html:
+    df-print: paged
     toc: true
     code-fold: true
     code-copy: true
     code-tools: true
 categories:
   - maternal mortality
-  - women's political inclusion
-  - gender equality
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r}

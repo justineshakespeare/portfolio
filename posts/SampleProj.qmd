@@ -1,0 +1,19 @@
+---
+title: "Sample Project"
+author: "Justine Shakespeare"
+description: "Final project submission for Data Science Fundamentals."
+date: "06/22/2023"
+format:
+  html:
+    df-print: paged
+    toc: true
+    code-fold: true
+    code-copy: true
+    code-tools: true
+categories:
+  - Baby Names
+editor_options: 
+  chunk_output_type: console
+---
+
+sample test
