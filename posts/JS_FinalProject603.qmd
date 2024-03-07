@@ -10,10 +10,6 @@ format:
     code-fold: true
     code-copy: true
     code-tools: true
-categories:
-  - maternal mortality
-  - gender equality
-  - women's political inclusion
 editor_options: 
   chunk_output_type: console
 ---
