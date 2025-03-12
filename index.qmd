@@ -1,5 +1,5 @@
 ---
-title: "Justine Shakespeare's Portfolio"
+title: "Justine Shakespeare"
 image: "IMG_8829.jpg" # (needs to be in the same directory)
 about:
     template: jolla # look for your own: trestles, jolla, solana, broadside, marquee. https://quarto.org/docs/websites/website-about.html
