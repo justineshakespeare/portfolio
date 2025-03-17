@@ -1,5 +1,7 @@
 ---
-title: "Justine Shakespeare's Resume"
+title: "Resume"
 ---
 
-Click [here](JustineShakespeare_Resume2025.pdf) to download a PDF of my resume. 
+![](posts/JustineShakespeare_Resume2025_1.png)
+
+[Download](JustineShakespeare_Resume2025.pdf) as a PDF.
