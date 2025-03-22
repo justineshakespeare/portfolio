@@ -4,7 +4,7 @@ author: "Justine Shakespeare"
 date: "12/06/2023"
 ---
 
-Final project research poster for Text as Data.
+Poster for final project for Text as Data class. Implemented sentiment analysis and structural topic modeling (STM) on Congressional Records to assess shifts in legislative discourse on abortion following the Supreme Court's Roe v. Wade decision.
 
 ![](Justine_Shakespeare_DACSS758_Text_as_Data.png)
 
