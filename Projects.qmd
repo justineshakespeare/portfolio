@@ -1,10 +1,14 @@
 ---
 title: "Data Analysis Projects"
+format:
+  html:
+    toc: true
+    toc-floating: true
+    toc-title: "On this page"
 listing: 
   contents: posts
   sort: "date desc"
   type: default
   categories: false
   max-description-length: 175
-sidebar: true
 ---
