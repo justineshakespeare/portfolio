@@ -1,11 +1,13 @@
 ---
-title: "Before and After Roe: Tracing Partisan Polarization and the Shifting Landscape of Congressional Discourse on Abortion (Poster)"
+title: "Before and After Roe: Tracing Partisan Polarization and the Shifting Landscape of Congressional Discourse on Abortion"
+description: "Research poster for Text as Data. Implemented sentiment analysis and structural topic modeling (STM) on Congressional Records to assess shifts in legislative discourse on abortion following the Supreme Court's Roe v. Wade decision."
 author: "Justine Shakespeare"
 date: "12/06/2023"
+abstract: "Research poster for Text as Data. Implemented sentiment analysis and structural topic modeling (STM) on Congressional Records to assess shifts in legislative discourse on abortion following the Supreme Court's Roe v. Wade decision."
 ---
 
-Poster for final project for Text as Data class. Implemented sentiment analysis and structural topic modeling (STM) on Congressional Records to assess shifts in legislative discourse on abortion following the Supreme Court's Roe v. Wade decision.
+Final project research poster for Text as Data.
 
 ![](Justine_Shakespeare_DACSS758_Text_as_Data.png)
 
-Research Poster for Text As Data class. Click [here](Justine_Shakespeare_DACSS758_Text_as_Data.pdf) for PDF.
+Click [here](Justine_Shakespeare_DACSS758_Text_as_Data.pdf) for PDF.
