@@ -2,6 +2,6 @@
 title: "Resume"
 ---
 
-![](posts/JustineShakespeare_Resume2025_1.png)
+![](posts/JustineShakespeare_Resume2025.png)
 
 [Download](JustineShakespeare_Resume2025.pdf) as a PDF.

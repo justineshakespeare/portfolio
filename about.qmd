@@ -17,7 +17,7 @@ about:
       href: https://github.com/justineshakespeare
 ---
 
-### My Approach
+### About Me
 
 I'm passionate about how data analysis and quantitative research reveal insights that might otherwise go unnoticed. It's incredibly fulfilling to see data complement storytelling, challenge assumptions, and drive meaningful policy and decision-making.
 
