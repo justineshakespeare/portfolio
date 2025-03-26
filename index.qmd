@@ -18,11 +18,13 @@ about:
 ---
 
 ::: {#ppc}
-Human Rights \| Social Impact \| Research & Program Design and Implementation \| Data Analysis
+##### Human Rights & Social Impact \| Data Analysis \| Research Design & Implementation
 :::
 
-I’m Justine Shakespeare, a seasoned professional with over a decade of experience in research and project management. Having previously earned my BA at Barnard College and my MSc at the London School of Economics, I recently completed an advanced graduate certificate in Data Analytics and Computational Social Science at the University of Massachusetts Amherst. In this program I enhanced my technical skills in data analytics, quantitative analysis, research design, and survey methodology. 
+<br>
 
-Explore the [Projects](https://justineshakespeare.github.io/portfolio/Projects.html) page for featured coursework and other data analysis highlights. The [Professional Work](https://justineshakespeare.github.io/portfolio/ProfessionalWork.html) page includes a curated selection of my work at the international labor rights NGO [Verité](http://verite.org). 
+##### Hello, I’m Justine Shakespeare, a skilled professional with a decade of experience utilizing research, program development, and data-driven solutions to address critical social issues. Having previously earned my BA at Barnard College and my MSc at the London School of Economics, I recently completed an advanced graduate certificate in Data Analytics and Computational Social Science at the University of Massachusetts Amherst, enhancing my technical skills in quantitative analysis, research design, and survey methodology.
 
+<br>
 
+##### **I'm an analytical systems-thinker eager to contribute to a dynamic, collaborative team by leveraging my research and programmatic expertise and applying data collection, analysis, and computational methods to inform evidence-based solutions that drive social change.**
