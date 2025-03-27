@@ -2,7 +2,7 @@
 title: "Maternal Mortality and Women's Political Inclusion: Exploring the impact and pathways of gender equality on maternal health (Poster)"
 description: "Research Poster for Intro to Quantitative Analysis final project." 
 author: "Justine Shakespeare"
-date: "05/17/2023"
+date: "05/18/2023"
 ---
 
 Applied multiple linear regression to estimate the effect of women's political inclusion on maternal mortality, controlling for confounding variables. Conducted mediation analysis to assess whether the relationship was mediated by the presence of skilled birth attendants.

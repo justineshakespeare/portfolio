@@ -2,7 +2,9 @@
 title: "Data Analysis Projects"
 listing: 
   contents: posts
-  sort: "date desc"
+  sort: 
+     - "date desc"
+     - "title"
   type: default
   categories: false
   max-description-length: 175

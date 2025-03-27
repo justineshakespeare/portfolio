@@ -3,7 +3,6 @@ title: "Before and After Roe: Tracing Partisan Polarization and the Shifting Lan
 description: "Research poster for Text as Data. Implemented sentiment analysis and structural topic modeling (STM) on speeches made in Congress to assess shifts in legislative discourse on abortion following the Supreme Court's Roe v. Wade decision."
 author: "Justine Shakespeare"
 date: "12/06/2023"
-keywords: "Text as Data"
 ---
 
 Final project research poster for Text as Data.

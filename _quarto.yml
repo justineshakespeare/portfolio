@@ -16,8 +16,7 @@ website:
         text: Professional Work
       - href: JS_Resume.qmd
         text: Resume
-        
-      
+  
 # (this is where you put the different links on the nav bar)
 
 format:
