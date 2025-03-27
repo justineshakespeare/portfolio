@@ -28,7 +28,6 @@ format:
     #css: styles.css
     toc: true
 
-
     #mainfont: "Arial"
     fontsize: 1.1rem
     linkcolor: "#0075C4" # (French blue: #0075C4, nice blue: 2D93AD)
