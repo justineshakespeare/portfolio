@@ -22,7 +22,7 @@ about:
 ##### Human Rights & Social Impact \| Data Analysis \| Research Design & Implementation
 :::
 <p style="margin-bottom: 15px;">
-##### Hello, I’m Justine Shakespeare, a skilled professional with a decade of experience utilizing research, program development, and data-driven solutions to address critical social issues. Having previously earned my BA at Barnard College and my MSc at the London School of Economics, I recently completed an advanced graduate certificate in Data Analytics and Computational Social Science at the University of Massachusetts Amherst, enhancing my technical skills in quantitative analysis, research design, and survey methodology. I am currently continuing in the program to earn the full MS degree.
+##### Hello, I’m Justine Shakespeare, a skilled professional with a decade of experience utilizing research, program development, and data-driven solutions to address critical social issues. Having previously earned my BA at Barnard College and my MSc at the London School of Economics, I recently completed an advanced graduate certificate in Data Analytics and Computational Social Science at the University of Massachusetts Amherst, enhancing my technical skills in quantitative analysis, research design, and survey methodology. I am now continuing in the program to earn the full MS degree.
 </p>
 
 <p style="margin-bottom: 35px;">
