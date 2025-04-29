@@ -1,6 +1,6 @@
 ---
 title: "Maternal Mortality and Women's Political Inclusion: Exploring the impact and pathways of gender equality on maternal health (Poster)"
-description: "Research Poster for Intro to Quantitative Analysis final project." 
+description: "Research Poster for DACSS 603: Intro to Quantitative Analysis." 
 author: "Justine Shakespeare"
 date: "05/18/2023"
 ---

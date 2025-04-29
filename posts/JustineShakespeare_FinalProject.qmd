@@ -1,7 +1,7 @@
 ---
 title: "From Christopher to Oliver: Exploring Generational Shifts in Baby Name Data"
 author: "Justine Shakespeare"
-description: "Final project submission for Data Science Fundamentals. Performed exploratory data analysis and data visualization to analyse patterns and trends in data on baby names in the US from 1880 to 2021"
+description: "Final project submission for DACSS 601: Data Science Fundamentals. Performed exploratory data analysis and data visualization to analyse patterns and trends in data on baby names in the US from 1880 to 2021"
 date: "05/22/2023"
 format:
   html:
