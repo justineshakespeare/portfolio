@@ -6,8 +6,10 @@ listing:
      - "date desc"
      - "title"
   type: default
-  categories: false
+  categories: true
   max-description-length: 175
 ---
 
-While in the Data Analytics and Computational Social Science (DACSS) program at the University of Massachusetts Amherst, I took the following graduate-level courses: Data Science Fundamentals, Intro to Quantitative Analysis, Research Design, Survey Research Methods, and Text as Data. Several of these courses included final projects, which are all featured below.
+As a graduate student in the Data Analytics and Computational Social Science (DACSS) program at the University of Massachusetts Amherst, I have taken the following graduate-level courses: Data Science Fundamentals, Intro to Quantitative Analysis, Research Design, Survey Research Methods, and Text as Data. The final projects for several of these courses are featured below.
+
+I have also attended several methodology workshops hosted by the Institute for Social Science Research at UMass Amherst. I've included below some of the projects that came out of those workshops.
