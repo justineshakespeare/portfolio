@@ -3,15 +3,6 @@
     "listing": "/Projects.html",
     "items": [
       "/posts/PosterTAD.html",
-      "/posts/JustineShakespeare_FinalProject.html",
-      "/posts/JS_FinalProject603.html",
-      "/posts/Poster603.html"
-    ]
-  },
-  {
-    "listing": "/posts/PosterTAD.html",
-    "items": [
-      "/posts/JustineShakespeare_FinalProject.html",
       "/posts/JS_FinalProject603.html",
       "/posts/Poster603.html"
     ]

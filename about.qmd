@@ -23,13 +23,12 @@ Outside of work, I enjoy crossword puzzles, exploring local bike trails, skiing 
 
 ### Education and Work Experience
 
--   BA in Foreign Area Studies with a concentration in French History from **Barnard College at Columbia University** in New York City. Graduated *magna cum laude* with department honors.
+- BA in Foreign Area Studies with a concentration in French History from **Barnard College at Columbia University** in New York City. Graduated *magna cum laude* with department honors.
 
--   MSc in European Studies from the **London School of Economics**, with a focus on immigration policy.
+- MSc in European Studies from the **London School of Economics**, with a focus on immigration policy.
 
--   Advanced Graduate Certificate in Data Analytics and Computational Social Science from the **University of Massachusetts Amherst**. GPA: 4.0
+- Advanced Graduate Certificate in Data Analytics and Computational Social Science from the **University of Massachusetts Amherst**. GPA: 4.0
 
--   Close to a decade of experience working for the international NGO [Verité](http://verite.org), specializing in leading research projects on forced labor, human trafficking, and the working conditions of migrant workers in global supply chains.
+- Close to a decade of experience working for the international NGO [Verité](http://verite.org), specializing in leading research projects on forced labor, human trafficking, and the working conditions of migrant workers in global supply chains.
 
 See my [resume](https://justineshakespeare.github.io/portfolio/JS_Resume.html) for more detail.
-
