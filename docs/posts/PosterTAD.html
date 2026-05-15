@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Justine Shakespeare">
-<meta name="dcterms.date" content="2023-05-18">
-<meta name="description" content="Research Poster for DACSS 603: Intro to Quantitative Analysis.">
+<meta name="dcterms.date" content="2023-12-06">
+<meta name="description" content="Research poster for DACSS 758: Text as Data. Implemented sentiment analysis and structural topic modeling (STM) on speeches made in Congress to assess shifts in legislative discourse on abortion following the Supreme Court’s Roe v. Wade decision.">
 
-<title>Maternal Mortality and Women’s Political Inclusion: Exploring the impact and pathways of gender equality on maternal health (Poster) – Justine Shakespeare</title>
+<title>Before and After Roe: Tracing Partisan Polarization and the Shifting Landscape of Congressional Discourse on Abortion – Justine Shakespeare</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -29,23 +29,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-986cab28d77599a146c7a4ffca4540df.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-986cab28d77599a146c7a4ffca4540df.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -93,7 +93,7 @@ gtag('config', 'G-CZ138ZD4S7', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Justine Shakespeare</span>
     </a>
   </div>
@@ -104,23 +104,23 @@ gtag('config', 'G-CZ138ZD4S7', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Projects.html"> 
+    <a class="nav-link" href="../Projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./ProfessionalWork.html"> 
+    <a class="nav-link" href="../ProfessionalWork.html"> 
 <span class="menu-text">Professional Work</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./JS_Resume.html"> 
+    <a class="nav-link" href="../JS_Resume.html"> 
 <span class="menu-text">Resume</span></a>
   </li>  
 </ul>
@@ -142,12 +142,12 @@ gtag('config', 'G-CZ138ZD4S7', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Maternal Mortality and Women’s Political Inclusion: Exploring the impact and pathways of gender equality on maternal health (Poster)</h1>
+<h1 class="title">Before and After Roe: Tracing Partisan Polarization and the Shifting Landscape of Congressional Discourse on Abortion</h1>
 </div>
 
 <div>
   <div class="description">
-    Research Poster for DACSS 603: Intro to Quantitative Analysis.
+    Research poster for DACSS 758: Text as Data. Implemented sentiment analysis and structural topic modeling (STM) on speeches made in Congress to assess shifts in legislative discourse on abortion following the Supreme Court’s Roe v. Wade decision.
   </div>
 </div>
 
@@ -164,7 +164,7 @@ gtag('config', 'G-CZ138ZD4S7', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">May 18, 2023</p>
+      <p class="date">December 6, 2023</p>
     </div>
   </div>
   
@@ -176,9 +176,9 @@ gtag('config', 'G-CZ138ZD4S7', { 'anonymize_ip': true});
 </header>
 
 
-<p>Applied multiple linear regression to estimate the effect of women’s political inclusion on maternal mortality, controlling for confounding variables. Conducted mediation analysis to assess whether the relationship was mediated by the presence of skilled birth attendants.</p>
-<p><img src="JustineShakespeare603FP.png" class="img-fluid"></p>
-<p>Click <a href="JustineShakespeare603FP.pdf">here</a> for PDF and <a href="https://justineshakespeare.github.io/portfolio/posts/JS_FinalProject603.html">here</a> for the full report with code.</p>
+<p>Final project research poster for Text as Data.</p>
+<p><img src="Justine_Shakespeare_DACSS758_Text_as_Data.png" class="img-fluid"></p>
+<p>Click <a href="Justine_Shakespeare_DACSS758_Text_as_Data.pdf">here</a> for PDF.</p>
 
 
 
