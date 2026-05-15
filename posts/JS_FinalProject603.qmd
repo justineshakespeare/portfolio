@@ -1,7 +1,7 @@
 ---
 title: "Maternal Mortality and Women's Political Inclusion: Exploring the impact and pathways of gender equality on maternal health"
 author: "Justine Shakespeare"
-description: "Final project submission for DACSS 603: Intro to Quantitative Analysis. Applied multiple linear regression to estimate the effect of women's political inclusion on maternal mortality, controlling for confounding variables. Conducted mediation analysis to assess whether the relationship was mediated by the presence of skilled birth attendants."
+description: "Final project submission for DACSS 603: Intro to Quantitative Analysis. Applied multiple linear regression to estimate the effect of women's political inclusion on maternal mortality, controlling for potentially confounding variables. Conducted mediation analysis to assess whether the relationship was mediated by the presence of skilled birth attendants."
 date: "05/18/2023"
 format:
   html:
@@ -104,9 +104,9 @@ The **explanatory variable** featured in this analysis will be drawn from the *V
 
 [^15]: Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, David Altman, Michael Bernhard, Agnes Cornell, M. Steven Fish, Lisa Gastaldi, Haakon Gjerløw, Adam Glynn, Ana Good God, Sandra Grahn, Allen Hicken, Katrin Kinzelbach, Joshua Krusell, Kyle L. Marquardt, Kelly McMann, Valeriya Mechkova, Juraj Medzihorsky, Natalia Natsika, Anja Neundorf, Pamela Paxton, Daniel Pemstein, Josefine Pernes, Oskar Rydén, Johannes von Römer, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey Staton, Aksel Sundström, Eitan Tzelgov, Yi-ting Wang, Tore Wig, Steven Wilson and Daniel Ziblatt. 2023. "V-Dem \[Country-Year/Country-Date\] Dataset v13" Varieties of Democracy (V-Dem) Project. https://doi.org/10.23696/vdemds23.
 
--   ***(Political) exclusion by gender index***[^16]
+- ***(Political) exclusion by gender index***[^16]
 
-    As defined by the V-Dem codebook: "Exclusion is when individuals are denied access to services or participation in governed spaces (spaces that are part of the public space and the government should regulate, while excluding private spaces and organizations except when exclusion in those private spheres is linked to exclusion in the public sphere) based on their identity or belonging to a particular group."[^17] This index is formed from four other indicators from V-Dem: power distributed by gender, equality in respect for civil liberites by gender, access to public services by gender, access to state jobs by gender, and access to state business opportunities by gender.
+  As defined by the V-Dem codebook: "Exclusion is when individuals are denied access to services or participation in governed spaces (spaces that are part of the public space and the government should regulate, while excluding private spaces and organizations except when exclusion in those private spheres is linked to exclusion in the public sphere) based on their identity or belonging to a particular group."[^17] This index is formed from four other indicators from V-Dem: power distributed by gender, equality in respect for civil liberites by gender, access to public services by gender, access to state jobs by gender, and access to state business opportunities by gender.
 
 [^16]: Pemstein et al. (2023, V-Dem Working Paper Series 2023:21); V-Dem Codebook
 
@@ -124,19 +124,19 @@ In addition to the dependent and explanatory variables, a **mediator variable** 
 
 [^20]: The State of the World's Children 2021: Statistical tables, UNICEF (2021) https://data.unicef.org/resources/dataset/the-state-of-the-worlds-children-2021-statistical-tables/
 
-#### Confounding variables
+#### Control variables
 
-Three **confounding variables** that seek to account for the economic and political development of a country will be considered in order to control for their effect on both maternal mortality and women's political exclusion.
+Three potentially **confounding variables** that seek to account for the economic and political development of a country will be considered in order to control for their effect on both maternal mortality and women's political exclusion.
 
 **GDP per capita** will be used as a way to control for a nation's economic development. This variable is drawn from the *International Monetary Fund (IMF)'s* data.[^21] GDP per capita from 2017 will be used in order to be consistent with the rest of the data.
 
 [^21]: International Monetary Fund. GDP per capita, current prices. (2023) https://www.imf.org/external/datamapper/NGDPDPC\@WEO/OEMDC/ADVEC/WEOWORLD
 
-In addition to GDP, this analysis will also include a confounding variable on the **government expenditure on health as a percentage of GDP**. This will be drawn from the *Economic Indicators* table from *UNICEF*. This data is from 2017*.*[^22]
+In addition to GDP, this analysis will also include a control variable on the **government expenditure on health as a percentage of GDP**. This will be drawn from the *Economic Indicators* table from *UNICEF*. This data is from 2017*.*[^22]
 
 [^22]: The State of the World's Children 2021: Statistical tables, UNICEF (2021) https://data.unicef.org/resources/dataset/the-state-of-the-worlds-children-2021-statistical-tables/
 
-Finally, a variable capturing the level of **democracy** in a country will be used as a confounding variable in this analysis. This variable was drawn from the V-Dems data.[^23] According to the codebook, this variable was "computed by subtracting the autocracy score from the democracy score. The resulting unified POLITY scale ranges from +10 (strongly democratic) to -10 (strongly autocratic)."[^24] This variable will seek to control for social and political elements that may effect both gender exclusion and maternal mortality.
+Finally, a variable capturing the level of **democracy** in a country will be used as a control variable in this analysis. This variable was drawn from the V-Dems data.[^23] According to the codebook, this variable was "computed by subtracting the autocracy score from the democracy score. The resulting unified POLITY scale ranges from +10 (strongly democratic) to -10 (strongly autocratic)."[^24] This variable will seek to control for social and political elements that may effect both gender exclusion and maternal mortality.
 
 [^23]: Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, David Altman, Michael Bernhard, Agnes Cornell, M. Steven Fish, Lisa Gastaldi, Haakon Gjerløw, Adam Glynn, Ana Good God, Sandra Grahn, Allen Hicken, Katrin Kinzelbach, Joshua Krusell, Kyle L. Marquardt, Kelly McMann, Valeriya Mechkova, Juraj Medzihorsky, Natalia Natsika, Anja Neundorf, Pamela Paxton, Daniel Pemstein, Josefine Pernes, Oskar Rydén, Johannes von Römer, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey Staton, Aksel Sundström, Eitan Tzelgov, Yi-ting Wang, Tore Wig, Steven Wilson and Daniel Ziblatt. 2023. "V-Dem \[Country-Year/Country-Date\] Dataset v13" Varieties of Democracy (V-Dem) Project. https://doi.org/10.23696/vdemds23.
 
@@ -146,7 +146,7 @@ The resulting data used for analysis will be a cross-sectional, cross-national s
 
 ## Loading and Cleaning the Data
 
-Data for this analysis will be drawn from multiple datasets. First, data from the Maternal and Newborn Health table from UNICEF for the explanatory variable and the confounding variable on skilled birth attendants will be loaded and cleaned. A second dataset from UNICEF will be loaded and joined with this one because it includes a world regions variable that will allow us to group and visualize the data. This variable will not be used in regression analysis.
+Data for this analysis will be drawn from multiple datasets. First, data from the Maternal and Newborn Health table from UNICEF for the explanatory variable and the control variable on skilled birth attendants will be loaded and cleaned. A second dataset from UNICEF will be loaded and joined with this one because it includes a world regions variable that will allow us to group and visualize the data. This variable will not be used in regression analysis.
 
 ```{r}
 # Load the dataset
@@ -213,7 +213,7 @@ MNH_final <- MNH_wRegion %>%
 MNH_final <- select(MNH_final, Countries_and_areas, WorldRegion, SubRegion, Maternal_Mortality_Ratio_2017, SkilledBirthAtt)
 ```
 
-Next the Varieties of Democracy data will be added. It is from this data that the explanatory variable related to the political inclusion of women and the confounding variable related to democracy will be drawn.
+Next the Varieties of Democracy data will be added. It is from this data that the explanatory variable related to the political inclusion of women and the control variable related to democracy will be drawn.
 
 ```{r}
 V_DEM <- readRDS("V-Dem-CY-Full+Others-v13.rds")
@@ -246,7 +246,7 @@ V_DEM_trim$Countries_and_areas[V_DEM_trim$Countries_and_areas == "Russia"] <- "R
 V_DEM_trim$Countries_and_areas[V_DEM_trim$Countries_and_areas == "Burma/Myanmar"] <- "Myanmar"
 ```
 
-The confounding variable GDP per capita will be pulled from a dataset from the International Monetary Fund.
+The control variable GDP per capita will be pulled from a dataset from the International Monetary Fund.
 
 ```{r}
 imf_GDP <- read_excel("imf-dm-export-20230322.xls")
@@ -285,7 +285,7 @@ imf_GDP_2017$Countries_and_areas[imf_GDP_2017$Countries_and_areas == "Venezuela"
 imf_GDP_2017$Countries_and_areas[imf_GDP_2017$Countries_and_areas == "Vietnam"] <- "Viet Nam"
 ```
 
-The last confounding variable on health expenditure data will be drawn from the UNICEF Economic Indicators data.
+The last control variable on health expenditure data will be drawn from the UNICEF Economic Indicators data.
 
 ```{r}
 ## Add in Economic Indicator data
@@ -357,7 +357,7 @@ Let's take a look at the final dataset.
 glimpse(MMR_Analysis)
 ```
 
-This data now contains information on 155 countries around the world, including the region and subregion they belong to, their ranking on democracy and gender exclusion indices, their national maternal mortality ratio, percentage of skill birth attendants present at birth, GDP, and percentage of GDP spent on health. In addition there are two variables created for this analysis that provide the quartile in which a country's GDP falls, and the logged GDP. This data should provide us with the key variables and confounding variables to examine and analyze the relationship between the explanatory variable (`GenderExclusion`) and the dependent variable (`Maternal_Mortality_Ratio_2017`), as well as the possible role of a mediator variable (`SkilledBirthAtt`).
+This data now contains information on 155 countries around the world, including the region and subregion they belong to, their ranking on democracy and gender exclusion indices, their national maternal mortality ratio, percentage of skill birth attendants present at birth, GDP, and percentage of GDP spent on health. In addition there are two variables created for this analysis that provide the quartile in which a country's GDP falls, and the logged GDP. This data should provide us with the key variables and control variables to examine and analyze the relationship between the explanatory variable (`GenderExclusion`) and the dependent variable (`Maternal_Mortality_Ratio_2017`), as well as the possible role of a mediator variable (`SkilledBirthAtt`).
 
 ### Dependent variable
 
@@ -556,7 +556,7 @@ ggplot(world_data, aes(x = long, y = lat, group = group, fill = SkilledBirthAtt)
   theme_bw()
 ```
 
-Summary statistics of the explanatory variable, confounding variables, and the mediator variable.
+Summary statistics of the explanatory variable, control variables, and the mediator variable.
 
 ```{r}
 dfSummary(MMR_Analysis[, c("GenderExclusion", "Expend_Health_pct_GDP", "GDP_2017", "SkilledBirthAtt")])
@@ -669,10 +669,10 @@ In all of the models the explanatory variable is found to have a positive and hi
 
 [^26]: Note that I performed a similar comparison of the logged and unlogged version of the `SkilledBirthAtt` variable and found that the unlogged version of the variable had a higher correlation with both `logGenderExclusion` and `logMMR2017` and the regression models with the unlogged version of the variable were also stronger. So the `SkilledBirthAtt` variable will remain unchanged.
 
-Next, the model will be explored with confounding variables added in.
+Next, the model will be explored with control variables included.
 
 ```{r}
-# Explore the regression model with all of the confounding variables.
+# Explore the regression model with all of the control variables.
 summary(lm(formula = logMMR2017 ~ logGenderExclusion +
                                 Democracy + 
                                 SkilledBirthAtt +
@@ -681,7 +681,7 @@ summary(lm(formula = logMMR2017 ~ logGenderExclusion +
                               data = MMR_Analysis))
 ```
 
-After adding in the confounding variables, the explanatory variable `logGenderExclusion` is still statistically significant at the 0.001 (.1%) level. The variable `Democracy` was found to be significant at the 0.05 (5%) level. `SkilledBirthAtt` and `logGDP2017` were both found to be statistically significant at the 0.001 (.1%) level. While the `Expend_Health_pct_GDP` variable was not found to be significant, because it relates to GDP it is possible that it could be significant as an interaction term with `logGDP2017`.
+After adding in the control variables, the explanatory variable `logGenderExclusion` is still statistically significant at the 0.001 (.1%) level. The variable `Democracy` was found to be significant at the 0.05 (5%) level. `SkilledBirthAtt` and `logGDP2017` were both found to be statistically significant at the 0.001 (.1%) level. While the `Expend_Health_pct_GDP` variable was not found to be significant, because it relates to GDP it is possible that it could be significant as an interaction term with `logGDP2017`.
 
 The following model will explore adding `Expend_Health_pct_GDP` and `logGDP2017` as an interaction term and compare it to this previous model.
 
@@ -734,7 +734,7 @@ Since MMR_3 has the smallest PRESS statistic, AIC, and BIC, we will use that mod
 
 #### Results
 
-This model supports the hypothesis that women's political inclusion has an effect on maternal mortality. While the `logGenderExclusion` variable was found to have a more significant effect on `logMMR2017` without any confounders, once control variables were introduced, the model became stronger and a better fit and the effect of `logGenderExclusion` remained statistically significant.
+This model supports the hypothesis that women's political inclusion has an effect on maternal mortality. While the `logGenderExclusion` variable was found to have a more significant effect on `logMMR2017` without any control variables, but once they were introduced, the model became stronger with a better fit and the effect of `logGenderExclusion` remained statistically significant.
 
 ```{r}
 summary(MMR_3)
@@ -764,7 +764,7 @@ Hypothesis #2 posits that the relationship between gender exclusion and maternal
 The process of mediation analysis involves identifying a model that shows the *total effect* (the effect of the explanatory variable on the dependent variable without the presence of the mediator variable), and two models that show *indirect effect* (the effect between the explanatory variable and the mediator, and the mediator and the dependent variable while controlling for the explanatory variable). Following that, these models are processed through the `mediate()` function, which estimates the mediation relationship.
 
 ```{r}
-# Total effect model (effect of the explanatory variable on the dependent variable without the presence of the mediator variable). First without covariates, second including all confounding variables (but not the mediator).
+# Total effect model (effect of the explanatory variable on the dependent variable without the presence of the mediator variable). First without covariates, second including all control variables (but not the mediator).
 TotalEff_noCov <- (lm(formula = logMMR2017 ~ logGenderExclusion,
                                data = MMR_Analysis))
 
