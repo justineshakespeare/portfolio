@@ -15,6 +15,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/justineshakespeare
+toc: FALSE
 ---
 
 ### About Me
